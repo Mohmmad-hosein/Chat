@@ -1,0 +1,17 @@
+.contentoftext{
+    backdrop-filter: blur(15px);
+    width: 100%;
+    height: 72%;
+    overflow-y: scroll ;
+}
+
+.Text{
+    background: rgba(255, 255, 255 , 0.8)  ;
+    margin: 15px;
+    width: auto;
+    max-width: 50%;
+    height: auto;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 1px black;
+}

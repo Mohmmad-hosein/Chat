@@ -1,0 +1,23 @@
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.45);
+    height: 95px;
+    gap: 15px;
+}
+
+.PostMas{
+    width: 65%;
+    height: 40px;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    padding: 5px;
+}
+
+.Sub{
+    height: 50px;
+    border-radius: 15px;
+}
